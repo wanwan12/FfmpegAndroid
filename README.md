@@ -1,0 +1,2 @@
+# ffmpeg
+包含ffmpeg官方库编译生成so的方法，和ffmpeg在安卓上的一些基本使用
